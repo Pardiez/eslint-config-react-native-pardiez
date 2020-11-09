@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-react-native-wcandillon",
+  "name": "eslint-config-react-native-pardiez",
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wcandillon/eslint-config-react-native-wcandillon.git"
+    "url": "https://github.com/pardiez/eslint-config-react-native-pardiez.git"
   },
-  "author": "William Candillon <wcandillon@gmail.com>",
+  "author": "David Peña <david@davidpena.es>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wcandillon/eslint-config-react-native-wcandillon/issues"
+    "url": "https://github.com/pardiez/eslint-config-react-native-pardiez/issues"
   },
-  "homepage": "https://github.com/wcandillon/eslint-config-react-native-wcandillon#readme",
+  "homepage": "https://github.com/pardiez/eslint-config-react-native-pardiez#readme",
   "devDependencies": {
     "eslint": "^7.13.0",
     "semantic-release": "^17.1.1",
