@@ -1,19 +1,17 @@
-# eslint-config-react-native-wcandillon
+# eslint-config-react-native-pardiez
 My eslint configuration for React Native.
 
-[![CircleCI](https://circleci.com/gh/wcandillon/eslint-config-react-native-wcandillon.svg?style=svg)](https://circleci.com/gh/wcandillon/eslint-config-react-native-wcandillon)
-[![npm version](https://badge.fury.io/js/eslint-config-react-native-wcandillon.svg)](https://badge.fury.io/js/eslint-config-react-native-wcandillon)
 
 ## Usage
 
 ```
-yarn add eslint-config-react-native-wcandillon --dev
+yarn add eslint-config-react-native-pardiez --dev
 ```
 
 In `.eslintrc`:
 
 ```json
 { 
-  "extends": "react-native-wcandillon", 
+  "extends": "react-native-pardiez", 
 } 
 ```
